@@ -1,3 +1,3 @@
 # git_test
-
-"Hello Odin!"
+Testing for the odin project
+"Hello Odin!" - UmaSye
